@@ -13,4 +13,7 @@ ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W01 120 L11 Assignment #01
 ZCZC W01 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W01 180 L05 Quiz related including studying
+ZCZC W01 120 L11 Assignment #01
+ZCZC W01 60 L13 Assignment #03
+ZCZC W01 30 L14 Assignment #04
 
