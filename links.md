@@ -11,7 +11,17 @@ The Site created by Mr. RMS. This site contains a lot of useful information, esp
 Website ini menjelaskan tentang top 10 kerentanan aplikasi yang paling umum terjadi di dunia. Website ini membuat kita menjadi lebih aware tentang ancaman terhadap situs web dan mengetahui cara untuk mencegahnya.
 
 3. [Mengenal Lebih Jauh Trojan Horse](https://gudangssl.id/apa-itu-trojan-horse-dan-bahayanya/)<br>
-Website ini sangat bagus bagi kita untuk mengenal lebih jauh tentang sernagan Trojan Horse. Di dalamnya terdapat penjelasan mengenai definisi Trojan Horse, sejarah Trojan Horse, serangan yang dilakukan, dan cara mengatasi masalah akibat Trojan Horse.
+Website ini sangat bagus bagi kita untuk mengenal lebih jauh tentang serangan Trojan Horse. Di dalamnya terdapat penjelasan mengenai definisi Trojan Horse, sejarah Trojan Horse, serangan yang dilakukan, dan cara mengatasi masalah akibat Trojan Horse.
 
 4. [8 Best Programming Languages to Learn for Cybersecurity](https://springboard.com/blog/best-programming-language-for-cybersecurity/)<br>
 Website ini direkomendasikan untuk seseorang yang ingin terjun di bidang Cyber Security. Terdapat 8 bahasa pemrogaman yang paling sering digunakan dalam Cyber Security, beberapa di antaranya yaitu JavaScript, Python, dan HTML.
+
+5. [Mengenal Lebih Jauh tentang Linux File System](https://www.ubuntupit.com/everything-you-need-to-know-about-the-linux-file-system/)<br>
+Website yang sangat berguna untuk kita tahu banyak hal tentang Linux File System. Di dalamnya terdapat struktur, hirarki, jenis system file, jenis file, dan masih banyak lagi!
+
+6. [Virtual File System](https://www.geeksforgeeks.org/virtual-file-system/)<br>
+Berisi tentang penjelasan singkat virtual file system. Terdapat pengertian VFS, kemampuan VFS, jalan kerja VFS, dan tipe utama VFS.
+
+7. [Cara Kerja Data Recovery Software](https://www.techradar.com/news/how-data-recovery-software-works#:~:text=In%20the%20case%20of%20accidental,of%20the%20device%20in%20question.)<br>
+Very usefull websites! Terkadang kita menghapus/kehilangan data secara tidak sengaja. Wesbite ini menjelaskan bagaimana proses data recovery bekerja, berbagai jenis kehilangan data, dan cara untuk meminimalkan resiko kehilangan data.
+
