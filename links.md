@@ -25,3 +25,11 @@ Berisi tentang penjelasan singkat virtual file system. Terdapat pengertian VFS, 
 7. [Cara Kerja Data Recovery Software](https://www.techradar.com/news/how-data-recovery-software-works#:~:text=In%20the%20case%20of%20accidental,of%20the%20device%20in%20question.)<br>
 Very usefull websites! Terkadang kita menghapus/kehilangan data secara tidak sengaja. Wesbite ini menjelaskan bagaimana proses data recovery bekerja, berbagai jenis kehilangan data, dan cara untuk meminimalkan resiko kehilangan data.
 
+8. [Linux Addressing](https://medium.com/@navaneethrvce/linux-addressing-40b35ff4ae4a)<br>
+Berisi tentang _addressing pada_ Linux seperti macam-macam ruang addres linux, alasan ruang virtual address ada tiga, dll.
+
+9. [Swapping](https://www.javatpoint.com/swapping-in-operating-system)<br>
+Menjelaskan mengenai proses _swapping_ dalam sistem operasi. Terdapat pengertian, tujuan, konsep, dan beberapa contoh terkait swapping.
+
+10. [Little Endian & Big Endian. How does it work?](https://opensource.com/article/18/8/what-how-makefile)<br>
+Membahas mengenai konsep little endian dan big endian dalam byte ordering.
