@@ -1,3 +1,11 @@
+ZCZC W05 3 L03 GitHub and git related, including commit, push, pull
+ZCZC W05 30 L15 Assignment #05
+ZCZC W05 60 L14 Assignment #04
+ZCZC W05 5 L13 Assignment #03
+ZCZC W05 10 L12 Assignment #02
+ZCZC W05 30 L11 Assignment #01
+ZCZC W05 90 L05 Quiz related including studying
+ZCZC W05 100 L02 CLASSROOM/ZOOM meetings related
 ZCZC W04 5 L03 GitHub and git related, including commit, push, pull
 ZCZC W04 15 L13 Assignment #03
 ZCZC W04 10 L12 Assignment #02
