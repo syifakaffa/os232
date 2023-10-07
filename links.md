@@ -33,3 +33,12 @@ Menjelaskan mengenai proses _swapping_ dalam sistem operasi. Terdapat pengertian
 
 10. [Little Endian & Big Endian. How does it work?](https://opensource.com/article/18/8/what-how-makefile)<br>
 Membahas mengenai konsep little endian dan big endian dalam byte ordering.
+
+11. [Why Is Virtual Memory Important?](https://www.techwalla.com/articles/why-is-virtual-memory-important)<br>
+Membahas apa itu virtual memory dan menjawab pertanyaan mengapa penggunaan virtual memory penting. Menarik sekali untuk diketahui karena tanpa adanya virtual memory kita tidak bisa multitasking dengan nyaman, oleh karena itu alangkah baiknya kita mengetahui detail dari virtual memory itu sendiri.
+
+12. [All You Need To Know About Processes in Linux](https://www.tecmint.com/linux-process-management/)<br>
+Website ini membahas proses - proses yang terjadi di linux. Pada Week 5 ini, kita mulai mengenal table of process (top) dan penting untuk mengetahui arti dari masing-masing proses itu. Penjelasan yang diberikan website ini cukup runut, sehingga mudah untuk dipahami dari dasar.
+
+13. [Allocating kernel memory](https://www.geeksforgeeks.org/operating-system-allocating-kernel-memory-buddy-system-slab-system/)<br>
+Website ini berisi penjelasan mengenai 2 strategi dalam manajemen free memory yang ditugasskan ke kernel proses. Di dalamnya juga dijelaskan keuntungan dari masing-masing strategi, sehingga kita bisa memilih strategi yang tepat dan cocok.
