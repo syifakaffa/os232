@@ -42,3 +42,12 @@ Website ini membahas proses - proses yang terjadi di linux. Pada Week 5 ini, kit
 
 13. [Allocating kernel memory](https://www.geeksforgeeks.org/operating-system-allocating-kernel-memory-buddy-system-slab-system/)<br>
 Website ini berisi penjelasan mengenai 2 strategi dalam manajemen free memory yang ditugasskan ke kernel proses. Di dalamnya juga dijelaskan keuntungan dari masing-masing strategi, sehingga kita bisa memilih strategi yang tepat dan cocok.
+
+14. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
+Website ini menjelaskan sebuah system yang membuat sebuah proses baru yang berjalan secara konkurensi dengan proses yang memanggilnya (fork system call). Menarik untuk diketahui bagaimana sistem pemanggilan ini dengan konsep parent dan child yang berjalan beriringan dengan output yang bisa berbeda-beda tentunya. Dengan bahasa c,  website ini menjelaskan bagaimana memprediksi dan mengkalkulasi sebuah output.
+
+15. [Multithreading vs Multiprocessing](https://www.guru99.com/difference-between-multiprocessing-and-multithreading.html)<br>
+Website ini menjelaskan karakteristik dan perbedaan dari multiprocessing dan multithreading. Keduanya merupakan aspek penting dalam pengoperasian sebuah komputer, sehingga menarik untuk diketahui bagaimana perbedaannya serta keuntungan dan kelemahan dari masing - masing.
+
+16. [Concurrency in Operating System](https://www.geeksforgeeks.org/concurrency-in-operating-system/)<br>
+Concurrency banyak terjadi pada sistem operasi kita. Website ini menyediakan informasi mengenai prinsip, keuntungan dan kelemahan, serta masalah yang didapat dari concurrency ini dengan cara penyampaian yang simpel.
