@@ -1,3 +1,4 @@
+ZCZC W06 3 L03 GitHub and git related, including commit, push, pull
 ZCZC W06 45 L14 Assignment #04
 ZCZC W06 5 L13 Assignment #03
 ZCZC W06 100 L02 CLASSROOM/ZOOM meetings related
