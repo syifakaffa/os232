@@ -51,3 +51,12 @@ Website ini menjelaskan karakteristik dan perbedaan dari multiprocessing dan mul
 
 16. [Concurrency in Operating System](https://www.geeksforgeeks.org/concurrency-in-operating-system/)<br>
 Concurrency banyak terjadi pada sistem operasi kita. Website ini menyediakan informasi mengenai prinsip, keuntungan dan kelemahan, serta masalah yang didapat dari concurrency ini dengan cara penyampaian yang simpel.
+
+17. [Process Synchronization](https://www.studytonight.com/operating-system/process-synchronization)<br>
+Pernakah berpikir bagaimanana cara sebuah sistem operasi menangani beberapa proses pada sumber tertentu secara bersamaan? Website ini membahas penyebab mekanisme tersebut serta solusinya. Menarik mengetahui hal yang sering terjadi dengan penjelasan yang simpel dan gambaran pseudocode yang jelas.
+
+18. [Introduction of Deadlock in Operating System](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
+Website ini membahas mengenai mekanisme deadlock, kondisi apa yang menyebabkan hal ini, hingga solusinya. Dengan penjelasan yang ringkas, diagram proses, dan quiz di akhir bacaan, membuat website sangat direkomendasi.
+
+19. [What are Deadlock handling techniques in Operating System?](https://afteracademy.com/blog/what-are-deadlock-handling-techniques-in-operating-system)<br>
+Ternyata sistem operasi kita sudah cukup pintar untuk menghindari deadlock. Website ini membahas mengenai mekanisme tersebut, seperti deadlock prevention, deadlock avoidance, dan lain-lain.Penjelasan yang mendetail di setiap mekanisme membuat website ini cukup direkomendasikan.
