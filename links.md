@@ -60,3 +60,18 @@ Website ini membahas mengenai mekanisme deadlock, kondisi apa yang menyebabkan h
 
 19. [What are Deadlock handling techniques in Operating System?](https://afteracademy.com/blog/what-are-deadlock-handling-techniques-in-operating-system)<br>
 Ternyata sistem operasi kita sudah cukup pintar untuk menghindari deadlock. Website ini membahas mengenai mekanisme tersebut, seperti deadlock prevention, deadlock avoidance, dan lain-lain.Penjelasan yang mendetail di setiap mekanisme membuat website ini cukup direkomendasikan.
+
+20. [Preemptive and Non-Preemptive Scheduling](https://www.geeksforgeeks.org/preemptive-and-non-preemptive-scheduling/)<br>
+Website ini berisi menjelaskan perbedaan keduanya baik dari sisi kapan dipakai, algoritma yang bisa digunakan, dan lain-lain. 
+Website ini direkomendasikan karena penjelasan yang mudah dimengerti, terdapat perbandingan dari aspek yang sama, dan 
+terdapat gambar yang menjelaskan proses dari setiap schedluing.
+
+21. [Thread Scheduling](https://www.geeksforgeeks.org/thread-scheduling/)<br>
+Website ini berisi penjelasan 2 thread scheduling yaitu scheduling via leightweight process dan schedulin dari kernel level. 
+Walaupun materinya sangat sulit dimengerti, penjelasan yang detail dari setiap proses, perbandingan antar proses yang ada,
+serta adanya ilustrasi antar proses memudahkan untuk memahami materinya.
+
+22. [Scheduling in Real Time Systems](https://www.geeksforgeeks.org/scheduling-in-real-time-systems/)<br>
+Website ini menjelaskan scheduling dalam waktu yang nyata dimana tugas tugas ini perlu dilakukan segera dengan tingkat 
+urgensi tertentu. Penjelasan yang singkat dari mekanisme hal ini disertai penjelasan beberapa algorithm untuk pendekatan 
+hal ini membuat kita cukup mendapat pengetahuan mengenal scheduling di real time.
